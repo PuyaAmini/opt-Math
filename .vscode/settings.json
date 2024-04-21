@@ -1,5 +1,7 @@
 {
        "[python]": {
               "editor.defaultFormatter": null
-       }
+       },
+       "python.analysis.autoImportCompletions": true,
+       "python.analysis.typeCheckingMode": "basic"
 }
